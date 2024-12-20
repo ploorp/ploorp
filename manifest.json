@@ -1,0 +1,18 @@
+{
+  "instances": [
+    {
+      "app": "Piped",
+      "region": "North America",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "url": "https://piped.video"
+    },
+    {
+      "app": "Invidious",
+      "region": "North America",
+      "country": "United States",
+      "flag": "🇺🇸",
+      "url": "https://yewtu.be"
+    }
+  ]
+}
